@@ -1,0 +1,11 @@
+Lake,Latitude,Longitude,State,Country
+Lake Superior,47.7,-87.5,Michigan/Minnesota/Wisconsin,USA/Canada
+Lake Huron,44.5,-81.9,Michigan/Ontario,USA/Canada
+Lake Michigan,44.0,-87.0,Michigan/Illinois/Indiana/Wisconsin,USA
+Lake Erie,42.2,-81.2,Michigan/Ohio/Pennsylvania/New York/Ontario,USA/Canada
+Lake Ontario,43.7,-77.1,New York/Ontario,USA/Canada
+Great Salt Lake,40.8,-112.0,Utah,USA
+Lake Tahoe,39.1,-120.0,California/Nevada,USA
+Lake of the Woods,48.5,-93.7,Minnesota/Ontario/Manitoba,USA/Canada
+Lake Okeechobee,27.2,-80.8,Florida,USA
+Lake Mead,36.0,-113.0,Nevada/Arizona,USA

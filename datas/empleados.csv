@@ -1,0 +1,11 @@
+id,nombre,edad,salario,departamento,fecha_ingreso
+1,Juan Perez,28,3500.50,Ventas,2021-05-01
+2,Ana Gómez,35,4500.75,Recursos Humanos,2019-03-15
+3,Luis Martín,40,5500.00,Desarrollo,2015-08-20
+4,Marta Sánchez,22,3000.00,Marketing,2022-01-10
+5,Carlos Ruiz,30,4000.00,Ventas,2018-12-11
+6,Laura Fernández,33,4700.80,Recursos Humanos,2016-07-02
+7,Pedro Martínez,25,2900.50,Desarrollo,2020-09-18
+8,Claudia García,29,3900.00,Marketing,2017-04-25
+9,David López,38,5200.00,Ventas,2014-11-02
+10,María Pérez,27,3300.25,Recursos Humanos,2019-06-16
