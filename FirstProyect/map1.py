@@ -1,4 +1,3 @@
-from turtle import color, fillcolor
 import folium
 import pandas as pd
 
